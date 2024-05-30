@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mas
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning CSS,C++,JS,JAVA,PHP,JQUERRY
+- 💞️ I’m looking to collaborate on JS
+- 😄 Pronouns: He,His
